@@ -1,0 +1,2 @@
+sudo systemctl start wifibroadcast@gs
+.venv/bin/python -m ground_station
