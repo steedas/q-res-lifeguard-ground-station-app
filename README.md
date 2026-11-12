@@ -2,6 +2,10 @@
 
 First-pass passive PySide6 desktop monitor for the existing WFB-ng video and MAVLink streams. No flight commands, stream-rate requests, driver changes, or WFB configuration changes are made.
 
+## AI-generated software disclaimer
+
+This application was generated using OpenAI Codex under human direction. Its source code and documentation may contain errors, omissions, or incorrect assumptions. It is an experimental prototype and has not been validated for operational flight or rescue use. Independently review and test the software before relying on its video, telemetry, or GPS displays.
+
 ## Ubuntu 22.04 setup
 
 Install system GStreamer and Qt runtime libraries (review the package list for your machine):
